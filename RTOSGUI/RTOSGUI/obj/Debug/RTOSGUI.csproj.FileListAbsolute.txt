@@ -1,0 +1,10 @@
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\bin\Debug\RTOSGUI.exe.config
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\bin\Debug\RTOSGUI.exe
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\bin\Debug\RTOSGUI.pdb
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.csproj.AssemblyReference.cache
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.Form1.resources
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.Properties.Resources.resources
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.csproj.GenerateResource.cache
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.csproj.CoreCompileInputs.cache
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.exe
+C:\Users\mustafasamil.ileri\source\repos\RTOSGUI\RTOSGUI\obj\Debug\RTOSGUI.pdb
